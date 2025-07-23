@@ -84,3 +84,9 @@ command pio run –-target upload and wait for your device to flash “if you in
 3. cc11.py
 
 ##NOTE: THE USBGUI AND BRUCEUSB FIRMWARE SHOULD WORK FOR A TEMPORARY FIX IF YOU HAVE A BROKE T-EMBED CC1101 SCREEN.
+
+![Menu](BruceUSBimages/menu.png)
+![RF](BruceUSBimages/rf.png)
+![RF Menu](BruceUSBimages/rfmenu.png)
+
+
