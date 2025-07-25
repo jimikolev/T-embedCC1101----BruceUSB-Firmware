@@ -26,7 +26,7 @@ Python3 BruceUSB.py
 ## the correct port your device is on. 
 ## Either nano or use whatever code editor (Visual Studio, etc) and locate this section in BruceUSB.py--> 
 ## -->   # === CONFIG ===
-## -->   SERIAL_PORT = '/dev/ttyACM0' <-- You want to change only this section only.
+## -->   SERIAL_PORT = '/dev/ttyACM0' <-- You want to change only this section.
 ## -->   BAUD_RATE = 115200
 ## -->   IMAGE_FOLDER = './images'
 
@@ -56,6 +56,8 @@ command pio run –-target upload and wait for your device to flash “if you in
 ## Both cc.py and cc11.py only show serial output being sent over “could be useful for future debugging. If you find yourself running these scripts for any reason any long output of “/////” lines is going to be base64 encoded picture data and other output like drawRect, etc is the redirected output making the gui work.##
 
 ##THIS FIRMWARE VERSION IS MEANT TO BE USER FRIENDLY TO THE COMMUNITY OF T-EMBED CC1101 USERS WITH BROKEN SCREENS AND ANYONE WHO JUST WANTS ACCESS TO THEIR DEVICE OVER USB THIS FIRMWARE STILL SUPPORTS THE WEBUI NAVIGATOR AND ALL OTHER BRUCE FUNCTIONALITY BUT IS NOT A FULLY PATCHED VERSION WHEN RUNNING THE GUI SOME SCREEN OUTPUT MIGHT LAYER ESPECIALLY TEXT OUTPUT SUCH AS WIFI SCANS AS WELL AS THE MENU ITEM ICONS NOT DISPLAYING PROPERLY.
+
+the factory_v1.1_20250109.bin is the factory firmware on your device just there for if you want to flash back to factory firmware.
 
 ##ORIGINAL FILES FROM https://github.com/pr3y/Bruce.git 
 
