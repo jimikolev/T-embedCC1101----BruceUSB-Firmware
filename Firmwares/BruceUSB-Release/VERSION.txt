@@ -1,0 +1,68 @@
+Bruce USB Firmware for LilyGO T-Embed CC1101
+============================================
+
+Build Information:
+- Target Device: LilyGO T-Embed CC1101
+- Chip: ESP32-S3 (QFN56) revision v0.2
+- Flash Size: 16MB
+- PSRAM: 8MB (AP_3v3)
+- Crystal: 40MHz
+- Build Date: August 27, 2025
+- Firmware Version: Development Build
+- Framework: Arduino ESP32 v2.0.17
+
+Memory Usage:
+- RAM: 40.2% (131,888 / 327,680 bytes)
+- Flash: 85.0% (3,956,713 / 4,653,056 bytes)
+
+Features Included:
+✅ RF Tools (CC1101 Sub-GHz Radio)
+✅ RFID/NFC (PN532, MFRC522)
+✅ Bluetooth/BLE Tools
+✅ Wi-Fi Attack Tools
+✅ BadUSB (USB HID Attacks)
+✅ Infrared (IR) Tools
+✅ Audio/TTS Support
+✅ MicroSD Storage
+✅ Web Interface
+✅ Serial CLI
+✅ File Management
+✅ Pwnagotchi Integration
+✅ GPS Support
+✅ Spectrum Analysis
+
+Files in this package:
+- bootloader.bin (15,104 bytes) - ESP32-S3 bootloader
+- partitions.bin (3,072 bytes) - Partition table
+- firmware.bin (3,957,136 bytes) - Main Bruce firmware
+- flash_bruce_firmware.bat - Windows flash script
+- flash_bruce_firmware.sh - Linux/macOS flash script
+- README.md - Detailed instructions
+- VERSION.txt - This file
+
+Flash Memory Layout:
+- 0x0000 - Bootloader
+- 0x8000 - Partition Table  
+- 0x10000 - Application (Bruce Firmware)
+
+Build Environment:
+- PlatformIO Core 6.1.18
+- ESP32 Platform 6.12.0
+- Toolchain: xtensa-esp32s3-elf-gcc 8.4.0
+- Git Commit: Homebrew Build
+
+Compatible Devices:
+- LilyGO T-Embed CC1101 (Primary)
+- Other ESP32-S3 devices with CC1101 radio (may need pin adjustments)
+
+Installation Requirements:
+- Python 3.6+
+- esptool (pip install esptool)
+- USB-C cable (data, not charge-only)
+- Windows/Linux/macOS computer
+
+Support:
+This is an unofficial community build. For support:
+- Check README.md for troubleshooting
+- Original Bruce project: https://github.com/pr3y/Bruce
+- LilyGO documentation for hardware issues

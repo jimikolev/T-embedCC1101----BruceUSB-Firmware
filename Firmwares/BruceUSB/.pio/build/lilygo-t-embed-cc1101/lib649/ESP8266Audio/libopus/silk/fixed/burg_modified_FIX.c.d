@@ -1,0 +1,36 @@
+.pio/build/lilygo-t-embed-cc1101/lib649/ESP8266Audio/libopus/silk/fixed/burg_modified_FIX.c.o: \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/burg_modified_FIX.c \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../config.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../SigProc_FIX.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../typedef.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../opus_types.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../opus_defines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../opus_types.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../resampler_structs.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../macros.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../config.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/arch.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/../opus_types.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/../opus_defines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/fixed_generic.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/ecintrin.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/arch.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/cpu_support.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../Inlines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../MacroCount.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../MacroDebug.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../define.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../errors.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../tuning_parameters.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/pitch.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/modes.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/celt.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/../opus_custom.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/../opus_defines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/entenc.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/entcode.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/ecintrin.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/entdec.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/mdct.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/kiss_fft.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/fixed/../../celt/cpu_support.h

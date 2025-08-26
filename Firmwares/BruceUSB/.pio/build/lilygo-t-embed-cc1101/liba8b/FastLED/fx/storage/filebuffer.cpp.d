@@ -1,0 +1,24 @@
+.pio/build/lilygo-t-embed-cc1101/liba8b/FastLED/fx/storage/filebuffer.cpp.o: \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/fx/storage/filebuffer.cpp \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/fx/storage/filebuffer.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/file_system.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/namespace.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/ref.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/scoped_ptr.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/template_magic.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/fx/video.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/fx/fx2d.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/xymap.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/force_inline.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/xmap.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/lut.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/allocator.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/crgb.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/chsv.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/color.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/lib8tion/types.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/fx/fx.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/fx/detail/draw_context.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/fx/detail/transition.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/fx/time.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/FastLED/src/callback.h

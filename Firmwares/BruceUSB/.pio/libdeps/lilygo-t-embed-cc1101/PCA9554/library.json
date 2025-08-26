@@ -1,0 +1,21 @@
+{
+    "name": "PCA9554",
+    "version": "0.3.2",
+    "description": "Arduino library for PCA9554 8 bit I2C expander",
+    "keywords": "PCA9554",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/bakadave/PCA9554.git"
+    },
+    "authors":
+    [
+      {
+        "name": "David Baka",
+        "url": "https://github.com/bakadave/PCA9554.git"
+      }
+    ],
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*"
+  }

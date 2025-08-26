@@ -1,0 +1,38 @@
+https://github.com/rennancockles/ESP-ChameleonUltra
+https://github.com/whywilson/ESP-PN532BLE
+https://github.com/bmorcelli/SmartRC-CC1101-Driver-Lib/
+lewisxhe/XPowersLib @0.2.7
+mathertel/RotaryEncoder @1.5.3
+ducktape=https://github.com/bmorcelli/duktape/releases/download/2.7.0-lite/duktape-2.7.0.zip
+https://github.com/bmorcelli/ESPping
+Timezone
+bitbank2/PNGdec @ ^1.1.2
+ESP32Time
+FFat
+earlephilhower/ESP8266SAM@^1.0.1
+tobozo/ESP32-PSRamFS
+bakadave/PCA9554
+https://github.com/rennancockles/Arduino_MFRC522v2.git
+tinyu-zhao/FFT@^0.0.1
+mikalhart/TinyGPSPlus
+ESP8266Audio
+https://github.com/rennancockles/PN532
+h2zero/NimBLE-Arduino@^1.4.0
+Bodmer/JPEGDecoder
+LibSSH-ESP32
+https://github.com/rennancockles/SimpleCLI
+paulstoffregen/OneWire@^2.3.8
+https://github.com/rennancockles/ESP-Amiibolink
+https://github.com/whywilson/ESP-PN532Killer@^0.0.5
+ESP32Async/ESPAsyncWebServer
+NTPClient
+bblanchon/ArduinoJson
+bitbank2/AnimatedGIF
+Adafruit Si4713 Library@1.2.3
+WireGuard-ESP32
+nrf24/RF24 @ 1.4.11
+IRremoteESP8266
+https://github.com/bmorcelli/rc-switch
+fastled/FastLED @3.9.4
+Time
+https://github.com/whywilson/ESP-PN532-UART@^0.0.2

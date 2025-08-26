@@ -1,0 +1,1 @@
+{"type": "library", "name": "ducktape", "version": "0.0.0+20250827020625", "spec": {"owner": null, "id": null, "name": "ducktape", "requirements": null, "uri": "https://github.com/bmorcelli/duktape/releases/download/2.7.0-lite/duktape-2.7.0.zip"}}

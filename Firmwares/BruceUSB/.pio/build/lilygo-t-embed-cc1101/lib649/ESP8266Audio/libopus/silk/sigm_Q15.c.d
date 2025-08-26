@@ -1,0 +1,21 @@
+.pio/build/lilygo-t-embed-cc1101/lib649/ESP8266Audio/libopus/silk/sigm_Q15.c.o: \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/sigm_Q15.c \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../config.h \
+ C:/Users/DimitarKolev/.platformio/packages/framework-arduinoespressif32/cores/esp32/pgmspace.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/SigProc_FIX.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/typedef.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../opus_types.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../opus_defines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../opus_types.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/resampler_structs.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/macros.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../celt/arch.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../celt/../opus_types.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../celt/../opus_defines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../celt/fixed_generic.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../celt/ecintrin.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../celt/arch.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/../celt/cpu_support.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/Inlines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/MacroCount.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/silk/MacroDebug.h

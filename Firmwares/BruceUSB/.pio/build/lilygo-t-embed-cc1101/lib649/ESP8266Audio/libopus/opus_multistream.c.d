@@ -1,0 +1,23 @@
+.pio/build/lilygo-t-embed-cc1101/lib649/ESP8266Audio/libopus/opus_multistream.c.o: \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/opus_multistream.c \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/config.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/opus_multistream.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/opus.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/opus_types.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/opus_defines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/opus_private.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/arch.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/../opus_types.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/../opus_defines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/fixed_generic.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/celt.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/../opus_custom.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/../opus_defines.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/entenc.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/entcode.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/ecintrin.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/arch.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/entdec.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/stack_alloc.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/float_cast.h \
+ .pio/libdeps/lilygo-t-embed-cc1101/ESP8266Audio/src/libopus/celt/os_support.h
